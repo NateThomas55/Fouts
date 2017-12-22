@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "image": "../static/jerry_fouts.jpg",
+    "name": "Jerry Fouts",
+    "position": "Proprietor",
+    "bio": "Jerry has over 30 years of experience, providing prompt and courteouse year round tax preparation for a reasonable price."
+  },
+  {
+    "id": 2,
+    "image": "../static/sara_richardson.jpg",
+    "name": "Sara Richardson",
+    "position": "Associate",
+    "bio": "Sara has 3 years of tax preparation experience. She has a degree in bookkeeping and provides year round bookkeeping services."
+  }
+]
